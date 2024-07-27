@@ -1,6 +1,6 @@
-Bitcoin Price Prediction Using Machine Learning
+### Bitcoin Price Prediction Using Machine Learning
 
-Python packages to install:
+# Python packages to install:
 1. Pandas - It is an open-source Python package used for data manipulation and analysis. It is used for doing practical, real-world data analysis in Python
 pip install pandas
 
